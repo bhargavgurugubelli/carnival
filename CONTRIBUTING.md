@@ -30,12 +30,12 @@ To set up a local workspace for developing and testing your changes:
 1. **Fork the Repository**: Click the "Fork" button on the top-right of the repository page.
 2. **Clone your Fork**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/carnival.git
-   cd carnival
+   git clone https://github.com/YOUR_USERNAME/cafe_react_template.git
+   cd cafe_react_template
    ```
 3. **Add Upstream Remote**:
    ```bash
-   git remote add upstream https://github.com/bhargavgurugubelli/carnival.git
+   git remote add upstream https://github.com/bhargavgurugubelli/cafe_react_template.git
    ```
 4. **Install Dependencies**:
    ```bash

@@ -35,10 +35,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18.x or higher rec
 ### 1. Clone & Install
 ```bash
 # Clone the repository
-git clone https://github.com/bhargavgurugubelli/carnival.git
+git clone https://github.com/bhargavgurugubelli/cafe_react_template.git
 
 # Navigate to directory
-cd carnival
+cd cafe_react_template
 
 # Install dependencies
 npm install
